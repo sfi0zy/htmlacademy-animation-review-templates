@@ -58,3 +58,9 @@
 
 Примеры PR с ревью, построенных на этих шаблонах [можно найти в репозиториях студентов](https://github.com/search?q=org:htmlacademy-animation+commenter:sfi0zy).
 
+
+## Лицензия
+
+CC BY 4.0
+
+Copyright (c) 2023 Иван Богачев
