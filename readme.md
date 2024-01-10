@@ -63,4 +63,4 @@
 
 CC BY 4.0
 
-Copyright (c) 2023 Иван Богачев
+Copyright (c) 2024 Иван Богачев
